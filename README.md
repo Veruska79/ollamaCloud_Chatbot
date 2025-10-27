@@ -54,7 +54,7 @@ The selected model must be the same used for inference in app.py.
 
 ### 2. Installation (local)
 
--Installation with conda:
+- Installation with conda:
 
 1) Clone the repository and navigate into the project folder
 2) Create the Conda environment from the provided YAML file: "conda env create -f project_langchain3.yml"
