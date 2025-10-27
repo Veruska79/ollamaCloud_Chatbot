@@ -1,5 +1,5 @@
 # 🤖 QA Bot – Chainlit + Ollama Cloud Project + gpt-oss
-An interactive, locally running question-and-answer chatbot (designed for WSL) based on a Ollama’s cloud models and modern retrieval methods. 
+An interactive, locally running question-and-answer chatbot based on a Ollama’s cloud models and modern retrieval methods. 
 
 It is operated via [Chainlit](https://www.chainlit.io/), uses [LangChain](https://www.langchain.com/) for orchestration, [FAISS](https://github.com/facebookresearch/faiss) for fast vector search and state-of-the-art open
 source models on Ollama Cloud (https://docs.ollama.com/cloud#python)
