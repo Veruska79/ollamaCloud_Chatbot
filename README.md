@@ -7,7 +7,7 @@ source models on Ollama Cloud (https://docs.ollama.com/cloud#python)
 ---
 
 ## 🚀 Project Goals
-- Development of a local QA bot that utilises PDF and source text data or web links
+- Development of a local QA bot that utilises PDF and source text data (examples with selectd publications) or web links
 - Integration of a multilingual embedding model (DE/EN)
 - Integration of an open source model on Ollama Cloud
 - Interactive chat interface via Chainlit
