@@ -54,14 +54,24 @@ The selected model must be the same used for inference in app.py.
 
 ### 2. Installation (local)
 
-- Installation with conda: 
+-Installation with conda:
+
 1) Clone the repository and navigate into the project folder
 2) Create the Conda environment from the provided YAML file: "conda env create -f project_langchain3.yml"
 3) Activate the environment: "conda activate chainlit3"
-4) (Optional) Verify that the environment was created successfully: "conda info --envs"
-4) If dependencies are updated, you can refresh the environment at any time using: 
-   "conda env update -f environment.yml --prune"
 
+```bash
+conda env create -f project_langchain3.yml
+conda activate chainlit3  
+```
+4) (Optional) Verify that the environment was created successfully: "conda info --envs"
+```bash
+conda info --envs
+```
+5) If dependencies are updated, you can refresh the environment at any time using: 
+```bash
+conda env update -f environment.yml --prune
+```
 
 - Installation with venv
 
