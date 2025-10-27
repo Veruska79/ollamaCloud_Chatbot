@@ -127,7 +127,6 @@ This script loads the stored FAISS database and uses a Ollama cloud model to ans
 - Embeddings: `paraphrase-multilingual-MiniLM-L12-v2`
 - Retrieval: FAISS + LangChain `langchain_community.vectorstores.FAISS`
 - Interface: Chainlit
--
 
 ---
 
