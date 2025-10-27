@@ -140,17 +140,6 @@ Generate semantic vectors and store them in FAISS.
 
 ---
 
-## 🔐 Jailbreak-Schutz
-
-AActivated via `.env`:
-```env
-ENABLE_JAILBREAK_PROTECTION=true
-MIN_JAILBREAK_SCORE=0.4
-```
-Uses `detect_jailbreak()` to block flagged prompts
-
----
-
 ## 🧠 Example of Chat Interaction
 
 ```text
