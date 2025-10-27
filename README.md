@@ -45,7 +45,7 @@ The selected model must be the same used for inference in app.py.
 
 ### 1. Requirements
 
-- Python ≥ 3.10 (pyenv empfohlen)
+- Python ≥ 3.10
 - macOS/Linux
 - Docker Engine (optional für Container-Betrieb)
 - Data:
@@ -63,7 +63,7 @@ The selected model must be the same used for inference in app.py.
    "conda env update -f environment.yml --prune"
 
 
-- Installaiton with venv
+- Installation with venv
 
 ```bash
 pyenv install 3.12.0
